@@ -1,12 +1,12 @@
-#Add implementation
+#Add implementation here
 def add(x,y):
 	return x+y
-#subtract implementation
+#subtract implementation here
 def subtract(x,y):
 	pass
-#multiply implementation
+#multiply implementation here
 def multiply(x,y):
 	pass
-#div implementation
+#div implementation here
 def divide(x,y):
 	pass
